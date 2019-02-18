@@ -1,7 +1,7 @@
 <html>
 
 <body>
-<h1>Swifty Snacks 102: Can’t you see?</h1>
+<h2>Swifty Snacks 102: Can’t you see?</h2>
 
 Adding new UIView based elements to view controllers, is fairly intuitive when using storyboards.
 Given that Swifty Snacks ‘don’t use no damn storyboards’, you might be wondering how best to add UIView based elements to view controllers programmatically.
